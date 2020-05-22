@@ -85,7 +85,7 @@ Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretm
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
 ![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Ogretmen%20menu%20sayfasi.PNG)
 
-Burda <br/>
+
 **A)Ogrenci not ekleme**<br/>
 ![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/ogrenci%20not%20ekleme%20sayfasi.PNG)
 
