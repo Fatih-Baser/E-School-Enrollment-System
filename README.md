@@ -80,6 +80,8 @@ Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabi
 
 ## 2)Ogretmen Girisi
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Mudur%20giris.PNG)
+
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
 Burda <br/>
 **A)Ogrenci not ekleme**<br/>
