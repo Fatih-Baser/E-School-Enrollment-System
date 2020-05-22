@@ -32,7 +32,7 @@ Bu Girisler:
 
 a)	**Yonetici girisi** <br/>
 b)	**öğretmen girişi** <br/>
-c)	**öğrenci girişi ** <br/>
+c)	**öğrenci girişi** <br/>
 
 
 Ilk olarak gris yaptigimizda Bir giriş paneli karsimiza cikiyor.
@@ -68,9 +68,9 @@ Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabi
 ## 2)Ogretmen Girisi
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
-Burda 
-**A)Ogrenci not ekleme**  <br/>
-**B)öğrenci notlarinin tablosu** <br/>
+Burda <br/>
+**A)Ogrenci not ekleme**<br/>
+**B)öğrenci notlarinin tablosu**<br/>
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
 ## 3) Ogrenci Girisi
