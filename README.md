@@ -44,6 +44,8 @@ Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikt
 ## 1)Yonetici Girisi
 
 İlk olarak Yönteci kendine özel sadece kendisini bildiği kullanıcı adı ve sifresi bulunmaktadır.
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/G%C4%B1r%C4%B1s.PNG)
+
 Yonetici giriş yaptikdan sonra kendine ozel bir Ana sayfasi cikar.
 
 
