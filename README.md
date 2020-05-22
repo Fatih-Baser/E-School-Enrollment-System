@@ -10,6 +10,7 @@ Projenin web ve Mobilini geliştirmem durumunda daha kullanılabilir bir proje o
 Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 
 Projenin Kazandırdıkları
+
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
 1)Mysql yapisi öğrendim .
 2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.
@@ -25,6 +26,7 @@ Mysql kullanarak yaptığım ilk projem ve mysql veri işlemlerinde çok tecrüb
 Projenin Tanıtımı 
 Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı giriş bulunmaktadır.
 Bu Girisler 
+
 a)	Yönetici girişi 
 b)	öğretmen girişi 
 c)	öğrenci girişi   
@@ -35,6 +37,7 @@ E okul Giriş formu
 Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikten sonra herbirine kendini özel kullanıcı giriş ve login formu açılır.
 
 1) YÖNETİCİ GİRİŞİ
+
 İlk olarak Yönteci kendine özel sadece kendisini bildiği kullanıcı adı ve sifresi bulunmaktadır.
 Yonetici giriş yaptikdan sonra kendine ozel bir Ana sayfasi cikar.
 
@@ -58,9 +61,11 @@ Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabi
 
 
 2)Ogretmen girişi
+
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID`si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
-Burda 
+Burda
+
 A)Ogrenci not ekleme 
 B)öğrenci notlarinin tablosu 
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
