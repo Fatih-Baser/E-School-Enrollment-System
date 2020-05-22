@@ -95,6 +95,9 @@ Burda <br/>
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
 ## 3) Ogrenci Girisi
+
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/ogrenci%20giris%20sayfasi.PNG)
+
 Ogrenci burada kendine ozel verilmiş Kullanici ve Okul numarasini ile giriş yapıyor ve sadece kendi puanlarini goruyor.
 Eger tabloda öğrenci kendi kulllanici adini veya şifresini yanlis girerse hicbirsey acilmiyor.
 
