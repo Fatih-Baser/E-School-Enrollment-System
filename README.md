@@ -16,9 +16,13 @@ Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini
 1)Mysql yapisi öğrendim .
 
 2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.
+
 3)Forieng Key Kavramini Ogrendim.
+
 4) Mysql  de insert Update Delete  Count  Ogrendim.
+
 5)Login Formunda Database aldigim veriyi yazarak giriş yapma işlemini öğrendim.
+
 Veri çekme. Veri alma , veri kaydetme, veri güncelleme işlemlerini yaptım.
 Ve en cok bu projenin kazandirdigi sey sabirdi, disardan cok basit bir problem gozuksede bir sorunu bir gun ugrastigim oldu  ve  Cok zaman harcamama sebeb oldu ama cok sey ogrendim.
 
@@ -30,7 +34,9 @@ Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı g
 Bu Girisler 
 
 a)	Yönetici girişi 
+
 b)	öğretmen girişi 
+
 c)	öğrenci girişi   
 
 
