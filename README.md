@@ -10,7 +10,7 @@ Eğitim kurumlarında Bir öğrencinin okula kaydından baslayip, mezuniyetine k
 Projenin web ve Mobilini geliştirmem durumunda daha kullanılabilir bir proje olur.
 Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 
-## Projenin KAzandirdiklari
+## Projenin Kazandirdiklari
 
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
 
@@ -30,16 +30,16 @@ Mysql kullanarak yaptığım ilk projem ve mysql veri işlemlerinde çok tecrüb
 Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı giriş bulunmaktadır.
 Bu Girisler: 
 
-a)	** Yonetici Giri** <br/>
+a)	Yonetici girisi <br/>
 b)	öğretmen girişi <br/>
 c)	öğrenci girişi  <br/>
 
 
 Ilk olarak gris yaptigimizda Bir giriş paneli karsimiza cikiyor.
-###E okul Giriş formu
+### E okulGiris Formu
 Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikten sonra herbirine kendini özel kullanıcı giriş ve login formu açılır.
 
-##1) YÖNETİCİ GİRİŞİ
+## 1)Yonetici Girisi
 
 İlk olarak Yönteci kendine özel sadece kendisini bildiği kullanıcı adı ve sifresi bulunmaktadır.
 Yonetici giriş yaptikdan sonra kendine ozel bir Ana sayfasi cikar.
@@ -63,22 +63,17 @@ Ogretmen kayit kisminda branşi kaydedildiği an ders adi otomatik olarak ekleni
 Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabilir.
 
 
-##2)Ogretmen girişi
-
+## 2)Ogretmen Girisi
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
-Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID`si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
-Burda
-
-A)Ogrenci not ekleme <br/>
+Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
+Burda 
+A)Ogrenci not ekleme  <br/>
 B)öğrenci notlarinin tablosu <br/>
-
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
-##3)Ogrenci Girisi
-
+## 3) Ogrenci Girisi
 Ogrenci burada kendine ozel verilmiş Kullanici ve Okul numarasini ile giriş yapıyor ve sadece kendi puanlarini goruyor.
 Eger tabloda öğrenci kendi kulllanici adini veya şifresini yanlis girerse hicbirsey acilmiyor.
-
 
 
 
