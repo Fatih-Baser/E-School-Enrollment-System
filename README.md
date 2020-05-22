@@ -12,7 +12,9 @@ Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 Projenin Kazandırdıkları
 
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
+
 1)Mysql yapisi öğrendim .
+
 2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.
 3)Forieng Key Kavramini Ogrendim.
 4) Mysql  de insert Update Delete  Count  Ogrendim.
