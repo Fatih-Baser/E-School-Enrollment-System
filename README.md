@@ -67,6 +67,7 @@ Ogrenciye ID numarasi bildiriliyor.
 Kayitli öğrenci tablosunda arama kisminda hangisi ismi yazarsan tabloda sadece o isim cikiyor.
 Kayitli öğrenci tablosunda  silebiliyoruz ve güncelleyebiliyoruz.
 
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Ogretmen%20yeni%20kayit%20sayfasi.PNG)
 Ogretmen kaydedildikten sonra tabloda otomatik olarak cikiyor.
 Her bir öğretmenin kendine ozel bir  ID numarasi var.
 Ogretmene ID numarasi bildiriliyor.
