@@ -30,13 +30,15 @@ Mysql kullanarak yaptığım ilk projem ve mysql veri işlemlerinde çok tecrüb
 Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı giriş bulunmaktadır.
 Bu Girisler: 
 
-a)	Yonetici girisi <br/>
+a)	**Yonetici girisi** <br/>
 b)	öğretmen girişi <br/>
 c)	öğrenci girişi  <br/>
 
 
 Ilk olarak gris yaptigimizda Bir giriş paneli karsimiza cikiyor.
 ### E okulGiris Formu
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/G%C4%B1r%C4%B1s.PNG)
+
 Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikten sonra herbirine kendini özel kullanıcı giriş ve login formu açılır.
 
 ## 1)Yonetici Girisi
