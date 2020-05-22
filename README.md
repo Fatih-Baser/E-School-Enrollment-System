@@ -75,7 +75,9 @@ Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin s
 Burda
 
 A)Ogrenci not ekleme 
+
 B)öğrenci notlarinin tablosu 
+
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
 3)Ogrenci Girisi
