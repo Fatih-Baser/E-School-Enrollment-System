@@ -60,6 +60,8 @@ Sayfanin en ust kisminda hangi kullanici adi neyse onun kullanici adi yaziyor.
  ![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/ogrenci%20ekle%20sayfasi.PNG)
  
 Ogrenciyi kaydedildikten sonra tabloda otomatik olarak cikiyor.
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Ogrenci%20tablosu%20sayfasi.PNG)
+
 Her bir öğrencinin kendine ozel bir  ID numarasi var.
 Ogrenciye ID numarasi bildiriliyor.
 Kayitli öğrenci tablosunda arama kisminda hangisi ismi yazarsan tabloda sadece o isim cikiyor.
