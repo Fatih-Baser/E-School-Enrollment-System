@@ -47,9 +47,13 @@ Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikt
 ![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Mudur%20giris.PNG)
 
 Yonetici giriş yaptikdan sonra kendine ozel bir Ana sayfasi cikar.
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/Mudur%20main.PNG)
+
 
 
 Yonetici  Ogrenci , Ogretmen ve ders ekleyebiliyor,  silebiliyor, güncelleyebiliyor.
+![Banner resmi](https://github.com/fatih40/E-Okul-KayitSistemi/blob/master/E%20okul%20projesi%20%20images/ogrenci%20not%20ekleme%20sayfasi.PNG)
+
 Sayfanin sol tarafındaki öğrenci ,ogretmen ve ders sayisi güncel olarak değişiyor.
 Sayfanin en ust kisminda hangi kullanici adi neyse onun kullanici adi yaziyor.
  
