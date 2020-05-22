@@ -14,11 +14,11 @@ Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
 
-1)Mysql yapisi öğrendim .<br/>
-2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.<br/>
-3)Forieng Key Kavramini Ogrendim.<br/>
-4) Mysql  de insert Update Delete  Count  Ogrendim.<br/>
-5)Login Formunda Database aldigim veriyi yazarak giriş yapma işlemini öğrendim.<br/>
+**1)Mysql yapisi öğrendim .**<br/>
+**2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.**<br/>
+**3)Forieng Key Kavramini Ogrendim.**<br/>
+**4) Mysql  de insert Update Delete  Count  Ogrendim.**<br/>
+**5)Login Formunda Database aldigim veriyi yazarak giriş yapma işlemini öğrendim.**<br/>
 
 Veri çekme. Veri alma , veri kaydetme, veri güncelleme işlemlerini yaptım.<br/>
 Ve en cok bu projenin kazandirdigi sey sabirdi, disardan cok basit bir problem gozuksede bir sorunu bir gun ugrastigim oldu  ve  Cok zaman harcamama sebeb oldu ama cok sey ogrendim.
@@ -31,8 +31,8 @@ Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı g
 Bu Girisler: 
 
 a)	**Yonetici girisi** <br/>
-b)	öğretmen girişi <br/>
-c)	öğrenci girişi  <br/>
+b)	**öğretmen girişi** <br/>
+c)	**öğrenci girişi ** <br/>
 
 
 Ilk olarak gris yaptigimizda Bir giriş paneli karsimiza cikiyor.
@@ -69,8 +69,8 @@ Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabi
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
 Burda 
-A)Ogrenci not ekleme  <br/>
-B)öğrenci notlarinin tablosu <br/>
+**A)Ogrenci not ekleme**  <br/>
+**B)öğrenci notlarinin tablosu** <br/>
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
 ## 3) Ogrenci Girisi
