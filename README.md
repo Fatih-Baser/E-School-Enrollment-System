@@ -10,12 +10,19 @@ Projenin web ve Mobilini geliştirmem durumunda daha kullanılabilir bir proje o
 Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 
 Projenin Kazandırdıkları
+
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
+
 1)Mysql yapisi öğrendim .
+
 2)Baska Sutunlardaki verileri ayni tabloya toplamayi öğrendim.
+
 3)Forieng Key Kavramini Ogrendim.
+
 4) Mysql  de insert Update Delete  Count  Ogrendim.
+
 5)Login Formunda Database aldigim veriyi yazarak giriş yapma işlemini öğrendim.
+
 Veri çekme. Veri alma , veri kaydetme, veri güncelleme işlemlerini yaptım.
 Ve en cok bu projenin kazandirdigi sey sabirdi, disardan cok basit bir problem gozuksede bir sorunu bir gun ugrastigim oldu  ve  Cok zaman harcamama sebeb oldu ama cok sey ogrendim.
 
@@ -25,8 +32,11 @@ Mysql kullanarak yaptığım ilk projem ve mysql veri işlemlerinde çok tecrüb
 Projenin Tanıtımı 
 Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı giriş bulunmaktadır.
 Bu Girisler 
+
 a)	Yönetici girişi 
+
 b)	öğretmen girişi 
+
 c)	öğrenci girişi   
 
 
@@ -35,6 +45,7 @@ E okul Giriş formu
 Kullanıcı Yönetici girişi ,öğretmen girişi , öğrenci girişini seçtikten sonra herbirine kendini özel kullanıcı giriş ve login formu açılır.
 
 1) YÖNETİCİ GİRİŞİ
+
 İlk olarak Yönteci kendine özel sadece kendisini bildiği kullanıcı adı ve sifresi bulunmaktadır.
 Yonetici giriş yaptikdan sonra kendine ozel bir Ana sayfasi cikar.
 
@@ -58,11 +69,15 @@ Ogretmen artik kendi ID numarasi ve sifresi ile kendi sayfasından giriş yapabi
 
 
 2)Ogretmen girişi
+
 Yönteci  Ogretmene ozel ID  numarasini ve şifresini belirliyor sonra  öğretmene bildiriyor.
 Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin sagindaki tabloda öğrencileri gösteriyor.Bu tabloda otomatikmen seçtiği öğrencinin ID`si yaziliyor ve daha sonra ogretmen öğrencinin notunu giriyor.
-Burda 
+Burda
+
 A)Ogrenci not ekleme 
+
 B)öğrenci notlarinin tablosu 
+
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
 3)Ogrenci Girisi
