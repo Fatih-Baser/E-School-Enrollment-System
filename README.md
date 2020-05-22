@@ -87,6 +87,8 @@ Ogretmen bu sayfada kendine ozel ID numarasi yazarak basliyor .Sonra  sayfanin s
 
 Burda <br/>
 **A)Ogrenci not ekleme**<br/>
+![Banner resmi](https://github.com/fatih40/E-Okul-Kayit-Sistemi/blob/master/E%20okul%20projesi%20%20images/ogrenci%20not%20ekleme%20sayfasi.PNG)
+
 **B)öğrenci notlarinin tablosu**<br/>
 Ogrenci notlarini tablosu ogretmen öğrencilerin notlarini görebiliyorlar.Sirasiyla hangi öğrenci hangi dersden kac puan olduğu güncel birsekilde gözüküyor.
 
