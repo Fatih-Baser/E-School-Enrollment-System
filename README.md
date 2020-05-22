@@ -4,14 +4,13 @@
                          E-OKUL SİSTEMi RAPORU
 
 
-
-##Projenin amaci 
+##  Projenin Amaci
 
 Eğitim kurumlarında Bir öğrencinin okula kaydından baslayip, mezuniyetine kadar olan tum sureci içeren bir sistem geliştirdim.. Okula gitmeye gerek kalmaksizin online olarak internet üzerinden bilgi sahibi olmasi mumkun hale getirmek amacıyla bu projeyi yaptım.
 Projenin web ve Mobilini geliştirmem durumunda daha kullanılabilir bir proje olur.
 Proje  Bütün Eğitim kurumlarını hedef almaktadır.
 
-##Projenin Kazandırdıkları
+## Projenin KAzandirdiklari
 
 Projeyi Java programlama diliyle IDE olarak NetBeans  ve Mysql veri işlemlerini kullandım.
 
@@ -27,12 +26,11 @@ Ve en cok bu projenin kazandirdigi sey sabirdi, disardan cok basit bir problem g
 Mysql kullanarak yaptığım ilk projem ve mysql veri işlemlerinde çok tecrübe kazandığım bir proje oldu .İlk projem olduğu için çok ayrıntılı bir proje olmadı ama ileri ki zamanlarda daha ayrıntılı bir şekilde geliştirmeyi  düşünüyorum .
 
 
-##Projenin Tanıtımı
- 
+## Projenin Tanitimi
 Projeyi Çalıştırdığımızda Giriş paneli Çıkıyor ve burada 3 farklı giriş bulunmaktadır.
 Bu Girisler: 
 
-a)	Yönetici girişi <br/>
+a)	** Yonetici Giri** <br/>
 b)	öğretmen girişi <br/>
 c)	öğrenci girişi  <br/>
 
