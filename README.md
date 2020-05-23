@@ -4,11 +4,11 @@
                          E-OKUL SİSTEMi RAPORU
 
 
-##  Projenin Amaci
+##  Projenin Amacı
 
-Eğitim kurumlarında Bir öğrencinin okula kaydından baslayip, mezuniyetine kadar olan tum sureci içeren bir sistem geliştirdim.. Okula gitmeye gerek kalmaksizin online olarak internet üzerinden bilgi sahibi olmasi mumkun hale getirmek amacıyla bu projeyi yaptım.
+Eğitim kurumlarında Bir öğrencinin okula kaydından başlayıp, mezuniyetine kadar olan tum süreci içeren bir sistem geliştirdim.. Okula gitmeye gerek kalmaksızın online olarak internet üzerinden bilgi sahibi olması mümkün hale getirmek amacıyla bu projeyi yaptım.
 Projenin web ve Mobilini geliştirmem durumunda daha kullanılabilir bir proje olur.
-Proje  Bütün Eğitim kurumlarını hedef almaktadır.
+Proje Bütün Eğitim kurumlarını hedef almaktadır.
 
 ## Projenin Kazandirdiklari
 
